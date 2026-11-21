@@ -1,19 +1,20 @@
 # Hi, I'm Vince Sualog 👋
 
-**Computer Science student at Pamantasan ng Cabuyao (Laguna, PH)**. I build full-stack web and mobile apps, and I've lately been doing machine learning on geospatial data.
+**Full-stack and mobile developer from Laguna, Philippines.** I build complete products: mobile apps, the APIs behind them, and the dashboards that run them. I also build machine-learning models when a problem needs one.
 
-- 🛰️ **Currently:** modelling engineer on **LagunaSprawl**, our thesis. It forecasts urban sprawl across the Laguna de Bay watershed with a Random Forest + Cellular Automata model
-- 📱 **Shipped:** **Mathuto**, a React Native math-learning app with mini-games, built to a client's test cases
-- 🔎 **Looking for:** an internship (OJT) in full-stack web development or applied ML
-- 📫 **Reach me:** [vinhs1605@gmail.com](mailto:vinhs1605@gmail.com)
+- 📱 **Mobile:** React Native and Expo apps with offline support
+- 🌐 **Web:** React and Next.js front ends on Node.js or Laravel back ends
+- 🧠 **ML:** Python and scikit-learn, mostly on geospatial data
+- 📫 **Contact:** [vinhs1605@gmail.com](mailto:vinhs1605@gmail.com)
 
 ---
 
 ### 🧰 Tech I use
 
-**Frontend:** React · Next.js · React Native (Expo) · Tailwind CSS · TypeScript
-**Backend:** Node.js / Express · Laravel (PHP) · Firebase · MongoDB · MySQL
-**ML / Data:** Python · scikit-learn · Google Earth Engine · rasterio / GeoPandas · TensorFlow.js
+**Front end:** React · Next.js · TypeScript · Tailwind CSS
+**Mobile:** React Native · Expo · Expo Router
+**Back end:** Node.js / Express · Laravel (PHP) · Firebase · MySQL · MongoDB · serverless on Vercel
+**ML / data:** Python · scikit-learn · Google Earth Engine · GeoPandas · TensorFlow.js
 **Tools:** Git · Figma · Vercel · Netlify
 
 ---
@@ -22,13 +23,12 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **LagunaSprawl** *(thesis, write-up on my portfolio)* | Hybrid CA–ML model forecasting built-up growth to 2040 across 63 municipalities. Monte Carlo ensemble → urbanization-probability maps, 3 policy scenarios | Python · scikit-learn · GEE · Next.js |
-| [**Mathuto**](https://github.com/Valloiced/Mathuto) | Mobile math-learning app with lessons, quizzes, YouTube lessons with offline caching, two math mini-games (Arithmetic Blitz, Math Scramble) and a leaderboard | React Native · Expo · Firebase · Express/TS |
-| [**SwiftCart**](https://github.com/Valloiced/swiftcart-project) | Multi-category e-commerce storefront (team project) · [Live](https://swiftcart-project.vercel.app/) | React · Vite · Tailwind |
-| [**MamatayHealthyLab Forecasting**](https://github.com/Valloiced/MamatayHealthyLab-Forecasting-System) | In-browser neural-network forecaster for a diagnostic lab's monthly test volume (CBC, urinalysis, fecalysis) | React · TensorFlow.js · Chart.js |
+| [**Mathuto**](https://github.com/Valloiced/Mathuto) | Math-learning platform built for a client: a mobile app with lessons, quizzes and two math games, a serverless API with scheduled leaderboard resets, and a Next.js admin CMS | React Native · Expo · Firebase · Next.js · Vercel |
+| [**SwiftCart**](https://github.com/Valloiced/swiftcart-project) | Online store with a React storefront and a Laravel Sanctum API (team of five; I integrated the feature branches) · [Live](https://swiftcart-project.vercel.app/) | React · Tailwind · Laravel · MySQL |
 | [**Task Management**](https://github.com/Valloiced/task-management) | Full-stack CRUD task app with a REST API | Laravel · React · Tailwind |
+| **LagunaSprawl** *(thesis)* | Random Forest + cellular-automata model that forecasts urban growth around Laguna de Bay to 2040 | Python · scikit-learn · Google Earth Engine |
 
-<sub>Older stuff I still like: [Game of Life](https://github.com/Valloiced/game-of-life) · [TravelTrove](https://github.com/Valloiced/travel-trove) · [Pinnacle Dark Mode](https://github.com/Valloiced/pinnacle-dark-mode)</sub>
+<sub>Smaller builds and games: [ECHO](https://echo-game.netlify.app/) · [Game of Life](https://github.com/Valloiced/game-of-life) · [Snake](https://github.com/Valloiced/Snake-game-canvas) · [Pong](https://github.com/Valloiced/pong)</sub>
 
 ---
 
