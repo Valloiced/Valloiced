@@ -29,10 +29,3 @@
 | **LagunaSprawl** *(thesis)* | Random Forest + cellular-automata model that forecasts urban growth around Laguna de Bay to 2040 | Python · scikit-learn · Google Earth Engine |
 
 <sub>Smaller builds and games: [ECHO](https://echo-game.netlify.app/) · [Game of Life](https://github.com/Valloiced/game-of-life) · [Snake](https://github.com/Valloiced/Snake-game-canvas) · [Pong](https://github.com/Valloiced/pong)</sub>
-
----
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Valloiced&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valloiced&layout=compact&hide_border=true" alt="Top languages" />
-</p>
